@@ -1,6 +1,6 @@
 # Privacy policy
 
-Effective date: May 25th, 2018
+Effective date: November 5th, 2018
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
@@ -16,14 +16,12 @@ This policy applies where we are acting as a Data Controller with respect to the
 
 ### How we collect, process and store information
 
-We in tarsius.id are committed to safeguarding the privacy of our users. Our business model is to provide a paid service to users who need additional features on top of the FREE version, and does not rely on widespread collection of general user data. We will only collect information that we need to deliver the service to you, and continue to maintain and develop the service.
+We in tarsius.id are committed to safeguarding the privacy of our users. Our business model is to provide a paid service to users who need additional features on top of the free version, and does not rely on widespread collection of general user data. We will only collect information that we need to deliver the service to you, and continue to maintain and develop the service.
 
-tarsius.id may collect, store and process various kinds of data, with different legal grounds, as listed below. For the categories of data that require your consent, we will actively ask you for consent before collecting any data. You can give and revoke your consents at any time in your Settings page in https://tarsius.id.
-
-The following is a list of data we collect, process or store, with the purpose and legal ground listed for each item or group of items having the same purpose and legal ground:
+tarsius.id may collect, store and process various kinds of data, with different legal grounds, as listed below. The following is a list of data we collect, process or store, with the purpose and legal ground listed for each item or group of items having the same purpose and legal ground:
 
 * User account information. Users that choose to register in tarsius.id, will have to provide a valid email address or phone number. The user can also choose to enter a display name and/or add a profile picture that will be used to represent them in conversations.
-* Room information. To create a room in tarsius.id, you as a user will have to select a room name. This name will be publicly visible, and will be used by other users accessing meetings in that room. You as a user is responsible for the content you enter into a room name, and the content has to be compliant with our guidelines for Prohibited Content in Terms of Services.
+* Channel and room information. To create a channel and/or room in tarsius.id, you as a user will have to select a name. This name will be publicly visible, and will be used by other users accessing meetings in that room. You as a user is responsible for the content you enter into a room name, and the content has to be compliant with our guidelines for Prohibited Content in Terms of Services.
 
 *The information may be used for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. This is required to deliver the Service to you as user, by taking steps, at your request, to enter into such a contract (Terms of Service) cf. GDPR art. 6 (1) b.*
 
@@ -57,9 +55,7 @@ We will never store any media sent between participants in a room. Customers who
 
 ##### Security
 
-In the FREE version of the Service, users can use “Small meeting” mode (up to 4 participants). In “Small meeting” mode, communication between participants are primarily sent through peer-to-peer connections, where audio and video streams are sent directly between participants and do not pass through any of our servers. Video and audio transmitted in the Service is then sent directly between the participants in a room and is encrypted (DTLS-SRTP) with client-generated encryption keys. In cases where a user is behind a strict firewall or NAT, video and audio need to be relayed via a TURN server, but end-to-end encryption is still maintained.
-
-If you have upgraded a room to PRO, you can choose to use “Large meeting” mode (up to 12 participants). Calls using “Large meeting” mode will use a dedicated server infrastructure to allow more people in conversation, and better stability. Your stream will be sent through video router servers which transmits it to the other participants in the call, and also transmits their streams to you. Streams will always be encrypted (DTLS-SRTP) in transit, but will be decrypted and re-encrypted when passing through the video routers. We operate an infrastructure of video routers distributed across the world, and you will be automatically routed to the closest one. The video router servers and all of our infrastructure adhere to strict security measures, preventing any eavesdropping or interruption of the video/audio streams.
+The communication between participants are primarily sent through our servers (gateway). General data that transmitted in the Service is encrypted by default with HTTPS/SSL but end-to-end communications in room is not encrypted yet.
 
 ### Providing your personal data to others
 
@@ -77,15 +73,13 @@ Our categories of service providers and partners are:
 
 ##### Business Transfers
 
-We may disclose your personal data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy.
+We may disclose your personal data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) in so far as reasonably necessary for the purposes, and on the legal bases, set out in this policy.
 
 In the case where we are involved in a merger, acquisition, bankruptcy, reorganization or sale of assets such that your information would be transferred or become subject to a different privacy policy, we will notify you.
 
 ### International transfers of your personal data
 
-In some circumstances your personal data may be transferred to countries outside the European Economic Area (EEA). You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others. For information about what types of content you as a user is responsible, see this FAQ article.
-
-We and our other group companies have offices and facilities in Norway, Sweden, United States. The hosting facilities for Account information stored by tarsius.id are situated in Ireland. The hosting facilities for Usage information are situated in Ireland and the United States. Transfers to the United States will be protected by appropriate safeguards, namely the use of standard data protection clauses adopted or approved by the European Commission, a copy of which can be obtained from https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en.
+In some circumstances your personal data may be transferred to countries outside Indonesia. You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others. For information about what types of content you as a user is responsible, see this FAQ article.
 
 ### Retaining and deleting personal data
 
@@ -104,12 +98,15 @@ In some cases it is not possible for us to specify in advance the periods for wh
 Regardless of the provisions above, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
 
 ### Changes to this policy
+
 We can change these Terms at any time. We keep a historical record of all changes to our Terms on GitHub. If a change is material, we’ll let you know before it takes effect. By using tarsius.id on or after that effective date, you agree to the new Terms. If you don’t agree to them, you should delete your account before they take effect, otherwise your use of the Service and Content will be subject to the new Terms.
 
 ### Managing and deleting your personal information
+
 If you have an tarsius.id account, you can access, modify or export your personal information, or delete your account in Settings. If you delete your account, your information and content will be unrecoverable after that time. You may instruct us at any time not to process your personal information for marketing purposes, by adjusting your Privacy settings). We may withhold personal information that you request to the extent permitted by law.
 
 ### Your rights
+
 As an individual you are granted rights according to the applicable data protection law:
 
 * The right to access to your personal data
@@ -118,11 +115,9 @@ As an individual you are granted rights according to the applicable data protect
 * The also right to be forgotten; erasure of your data.
 * The right to data portability.
 
-If you have provided your consent to your processing of personal data, you may also withdraw your consent at any time, on our Settings > Consent page.
-
 The rights are not absolute, and you may read more about your rights in the EU general data protection regulation Chapter III, or at https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens_en
 
-To exercise your rights or if you otherwise have any questions regarding our processing of your personal data, we encourage you to contact us as described below. However, we also notify you that you may raise complaint to a data protection authority, e.g the supervisory authority where you live or the Norwegian Data Protection Authority. You may find further information on their website: https://www.datatilsynet.no/
+To exercise your rights or if you otherwise have any questions regarding our processing of your personal data, we encourage you to contact us as described below. However, we also notify you that you may raise complaint to a data protection authority.
 
 ### Data protection officer
 
