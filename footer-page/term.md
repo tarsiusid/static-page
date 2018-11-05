@@ -1,6 +1,6 @@
 Last updated: November 1st, 2018
 
-1. General
+### 1. General
 
 These General Terms apply generally to the use of the service tarsius.id (the “Service” or “tarsius.id”), and constitute a contract between 
 you and the company providing the Service, Real-time Communication and Collaboration Services, Indonesia (“The Company”). These 
@@ -21,12 +21,12 @@ agree to them, you should delete your account before they take effect, otherwise
 the new Terms. For paid versions of the Services or Content that you have already purchased, we will notify you at least 30 days prior to 
 any material changes, including price changes.
 
-2. Age limitation
+### 2. Age limitation
 
 tarsius.id is only for people 16 years old and over. By using tarsius.id, you affirm that you are over 16. If we learn that someone under 16 
 is using tarsius.id, we’ll terminate their account.
 
-3. How you can use the Service
+### 3. How you can use the Service
 
 tarsius.id is for legitimate individual use only (personal or business communication). Your use of tarsius.id requires that you have 
 hardware, software and an Internet connection fulfilling certain recommended requirements, as may be specified in our FAQ. If the 
@@ -99,7 +99,7 @@ as to interfere with or create an undue burden on the Service or its users.
 The Service may contain cryptographic functionality where the export of such could be restricted under applicable export control 
 laws. You shall not export or re-export the Service or parts of it in violation of such laws or regulations.
 
-5. Privacy and Personal Data
+### 5. Privacy and Personal Data
 
 When delivering the Service, tarsius.id will collect and process personal data about you and your use of the Service. The updated 
 Privacy Policy is available on this page. By using our Service, you agree that tarsius.id can use your personal data in accordance with 
@@ -107,7 +107,7 @@ our Privacy Policy and in accordance with the consents you have given us.
 
 appear.in will comply with Norwegian and EU privacy regulations.
 
-6. Communication
+### 6. Communication
 
 tarsius.id may need to send you information about the Service, such as important service announcements and administrative 
 messages, by SMS, e-mail or other means of electronic communication, by posting a notice on the Website, or through any other 
@@ -115,7 +115,7 @@ relevant communication channels.
 
 tarsius.id may offer to send you promotional information by SMS, e-mail or other means of electronic communication.
 
-7. Integrations
+### 7. Integrations
 
 We may make available functionality allowing you to integrate other services (“Integration Service”) into tarsius.id. Usage of such 
 services will be governed by the Terms applicable for the Integration Service used.
@@ -125,7 +125,7 @@ The Website and the Service may contain links to third party websites. These lin
 as an endorsement by tarsius.id of the contents of such third party websites. tarsius.id excludes any responsibility for the content of 
 linked third party websites.
 
-8. Intellectual Property Rights
+### 8. Intellectual Property Rights
 
 All rights, title to and interest in the Service (excluding User Content) are and will remain the exclusive property of tarsius.id. The 
 Service and its content are protected by copyright and other intellectual property rights in the country you reside as well as foreign 
@@ -144,7 +144,7 @@ irrevocable and worldwide license to use, reproduce, store, modify, distribute, 
 for any purpose, commercial or otherwise. You represent and warrant that you own any User Content submitted by you or that you 
 otherwise are entitled to submit such User Content and to grant us such license.
 
-9. Termination
+### 9. Termination
 
 You may stop using our Service, by deleting your account in Settings on your personal account on the website. As a subscriber of the 
 paid PRO version, you may terminate your subscription at any time, and will have access to the Service for the remaining billing (pre-
@@ -152,7 +152,7 @@ paid) period. The Company reserves the right to terminate the Service and the ag
 written notice to you. Users of the paid PRO versions may be entitled to refunds and to the extent this is described on our Knowledge 
 Base. No users are entitled to refunds upon termination due to breach of these Terms.
 
-10. Miscellaneous
+### 10. Miscellaneous
 
 Disclaimer of warranty. tarsius.id provides the Service to you as is. You acknowledge that the Service is not error-free. You use it at your 
 own risk and discretion. That means the Service doesn’t come with any warranty. None express, none implied. tarsius.id makes no 
