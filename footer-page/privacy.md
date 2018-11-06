@@ -21,7 +21,7 @@ We in tarsius.id are committed to safeguarding the privacy of our users. Our bus
 tarsius.id may collect, store and process various kinds of data, with different legal grounds, as listed below. The following is a list of data we collect, process or store, with the purpose and legal ground listed for each item or group of items having the same purpose and legal ground:
 
 * User account information. Users that choose to register in tarsius.id, will have to provide a valid email address or phone number. The user can also choose to enter a display name and/or add a profile picture that will be used to represent them in conversations.
-* Channel and room information. To create a channel and/or room in tarsius.id, you as a user will have to select a name. This name will be publicly visible, and will be used by other users accessing meetings in that room. You as a user is responsible for the content you enter into a room name, and the content has to be compliant with our guidelines for Prohibited Content in Terms of Services.
+* Room and session informations. To create a room and/or session in tarsius.id, you as a user will have to select a name. This name will be publicly visible, and will be used by other users accessing meetings in that room. You as a user is responsible for the content you enter into a room name, and the content has to be compliant with our guidelines for Prohibited Content in Terms of Services.
 
 *The information may be used for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. This is required to deliver the Service to you as user, by taking steps, at your request, to enter into such a contract (Terms of Service) cf. GDPR art. 6 (1) b.*
 
@@ -30,7 +30,7 @@ tarsius.id may collect, store and process various kinds of data, with different 
 
 * Usage information. When you as a user interact with the Services, we collect metadata to provide additional context about the way the Service is being used. The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The source of the usage data is our server software and our analytics tracking system.
 
-    * **Product Analytics data**. tarsius.id logs clicks when you as a user interact with our websites or apps, when you visit a page, room or have a conversation. We will never collect or record the content in conversations.
+    * **Product Analytics data**. tarsius.id logs clicks when you as a user interact with our websites or apps, when you visit a page, room or have a conversation.
     * **Technical log data**. Like most digital services, our servers automatically collect information when you access or use our Websites or Services and record it in log files. This log data may include the Internet Protocol (IP) address, the address of the web page visited within the Services, browser type and settings, the date and time the Services were used, information about browser configuration and plugins, language preferences and cookie data.
     * **Device information**. tarsius.id may collect information about devices used to access the Services, including type of device, what operating system is used, device settings, application IDs, unique device identifiers and crash data. Whether we collect some or all of this information depends on the type of device used and its settings.
     * **Location information**. We receive information from you and other third-parties that helps us approximate your location. We may, for example, use a business address submitted by your employer, or an IP address received from your browser or device to determine approximate location. tarsius.id may also collect location information from devices in accordance with the consent process provided by your device.
@@ -51,7 +51,7 @@ tarsius.id may collect, store and process various kinds of data, with different 
 
 #### How we process media (audio/video)
 
-We will never store any media sent between participants in a room. Customers who have access to the “Recording” feature will be able to record meetings, and they are then responsible for collecting consents from all participants in the meeting prior to starting the recording. They are also responsible for storing and processing the recording in compliance with regulations after downloading it from tarsius.id.
+We will store any media sent between participants in a room, especially in conversation. Encryption is not implemented yet. Customers who have access to the “Recording” feature will be able to record meetings, and they are then responsible for collecting consents from all participants in the meeting prior to starting the recording. They are also responsible for storing and processing the recording in compliance with regulations after downloading it from tarsius.id.
 
 ##### Security
 

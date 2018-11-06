@@ -47,7 +47,7 @@ We may change, terminate, or restrict access to any aspect of the Service or you
 right to impose limitations of use based on what we consider fair or legitimate usage, both for free and paying users.
 
 You are responsible for your use of the tarsius.id, including the lawfulness of any content displayed, shared, uploaded or otherwise
-made available by you in the Service (“the User Content”). User Content includes channel and room names, and you are responsible for ensuring
+made available by you in the Service (“the User Content”). User Content includes room and session names, and you are responsible for ensuring
 these names does not include Prohibited User Content (as listed below). Your picked names are used to construct the the URLs
 identifying your contents, and guests you invite and other third parties can (request to) enter your contents based on these URLs. As these
 guests do not need to authenticate to tarsius.id in order to do this, please be aware that the names must be considered public
