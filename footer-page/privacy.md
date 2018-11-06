@@ -121,7 +121,7 @@ To exercise your rights or if you otherwise have any questions regarding our pro
 
 ### Data protection officer
 
-Our data protection officer's contact details are: Arne Gleditsch, privacy@tarsius.id
+Our data protection officer's contact details are: Fariz Rizaldy, privacy@tarsius.id
 
 To learn more, visit the Privacy section in our Knowledge Base.
 
